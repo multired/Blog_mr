@@ -1,0 +1,17 @@
+*.pyc
+__pycache__
+mr201803
+BibliotecaVirtual
+django-master
+Include
+Lib
+mysite
+python-master
+sbmr2018
+Scripts
+zUtil
+db.sqlite3
+.DS_Store
+pip-selfcheck.json
+pyvenv.cfg
+
